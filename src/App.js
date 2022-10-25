@@ -38,7 +38,7 @@ export default function App() {
                             for="first_name"
                             class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300"
                         >
-                            1 RUB = {rubToRon}ron
+                            1 RUB = {rubToRon} lei
                         </label>
                         <input
                             type="text"
@@ -53,7 +53,7 @@ export default function App() {
                             for="last_name"
                             class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300"
                         >
-                            1 EUR = {eurToRon}ron
+                            1 EUR = {eurToRon} lei
                         </label>
                         <input
                             type="text"
@@ -69,7 +69,7 @@ export default function App() {
                         for="email"
                         class="block mb-2 text-2xl font-medium text-gray-900 dark:text-gray-300"
                     >
-                        {dollarUSLocale.format(ronSum)} ron
+                        {dollarUSLocale.format(ronSum)} lei
                     </label>
                     <label
                         for="email"
