@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ron-currency/static/css/main.65a609d0.css",
+    "main.js": "/ron-currency/static/js/main.b0cc2834.js",
+    "static/js/787.9ea89640.chunk.js": "/ron-currency/static/js/787.9ea89640.chunk.js",
+    "index.html": "/ron-currency/index.html",
+    "main.65a609d0.css.map": "/ron-currency/static/css/main.65a609d0.css.map",
+    "main.b0cc2834.js.map": "/ron-currency/static/js/main.b0cc2834.js.map",
+    "787.9ea89640.chunk.js.map": "/ron-currency/static/js/787.9ea89640.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65a609d0.css",
+    "static/js/main.b0cc2834.js"
+  ]
+}
